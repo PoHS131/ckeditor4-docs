@@ -3,7 +3,7 @@ category: file-manager
 order: 120
 url: guide/dev_file_upload
 menu-title: Uploading Dropped or Pasted Files
-meta-title-short: Uploading Dropped or Pasted Files
+meta-title-short: Uploading Dropped or Pasted Files(Po)
 ---
 <!--
 Copyright (c) 2003-2020, CKSource - Frederico Knabben. All rights reserved.
